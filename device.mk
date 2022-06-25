@@ -87,5 +87,5 @@ PRODUCT_COPY_FILES += \
     device/oneplus/kebab/prebuilt/systemmanifest.xml:$(TARGET_COPY_OUT_RECOVERY)/root/system/manifest.xml \
     device/oneplus/kebab/prebuilt/vendormanifest.xml:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/manifest.xml \
 
-# Temp test
+# Might be needed later, debug for now
 # BUILD_BROKEN_DUP_RULES := true
